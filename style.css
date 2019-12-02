@@ -1,0 +1,21 @@
+body{
+    background-color : maroon ;
+}
+
+#form {
+display :flex;
+align-items:center;
+flex-direction:column;
+font-size: x-large;
+font-size: large;
+background-color:   aquamarine;
+margin : 100px;
+}
+
+.b1{
+    width :250px;
+    border-radius: 5px;
+}
+.comment {
+    width:250px;
+}
